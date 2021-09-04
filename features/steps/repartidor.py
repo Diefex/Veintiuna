@@ -25,3 +25,17 @@ def step_imp(context):
 @then('el {valor:d} es correcto')
 def step_imp(context, valor):
   assert context.valor_mano == valor
+
+@given('los totales de las manos del {repartidor:d} y {jugador:d}')
+def step_imp(context, repartidor, jugador):
+  context.repartidor = Repartidor()
+  context.repartidor.valor_mano = repartidor
+  context.valor_jugador = jugador
+
+@when ('el repartidor determina la jugada')
+def step_imp(context):
+  context.jugada = context.repartidor.determinar_jugada(context.valor_jugador)
+
+@then ('la {jugada} es correcta')
+def step_imp(context, jugada):
+  context.jugada = jugada

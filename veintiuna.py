@@ -7,6 +7,7 @@ _cartas = [(v, p) for v in _valores for p in _pintas]
 class Repartidor:
   def __init__(self):
     self.mano = []
+    self.valor_mano = 0
 
   def nueva_mano(self):
     self.mano = [choice(_cartas), choice(_cartas)]
@@ -22,7 +23,9 @@ class Repartidor:
     for c in self.mano:
       valor += self.valor_carta(c)
     if self.tiene_as() and valor <= 11:
-      valor += 10 
+      valor += 10
+    
+    self.valor_mano = valor 
     return valor
 
   def valor_carta(self, carta):
@@ -32,3 +35,10 @@ class Repartidor:
       return 1
     else:
       return int(carta[0])
+
+  def determinar_jugada(self, valor_jugador):
+    if(self.valor_mano<=16 or self.valor_mano<valor_jugador):
+      jugada = 'juego'
+    else:
+      jugada = 'planto'
+    return jugada
