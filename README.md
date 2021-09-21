@@ -25,6 +25,8 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 
 ## Diagrama de Casos de uso
 
+!['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
+
 ## Diagrama de Clases
 
 ## Diagrama de Actividades
@@ -40,10 +42,6 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
  !['Diagrama de Paquetes'](img/UML_Diagrams/Paquetes/diagPaquetes.png)
  
  ## Diagrama de Despligue 
- 
- ## Diagrama de Casos de Uso 
- 
-!['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
 
  ## Diagrama de Secuencia 
  
