@@ -1,3 +1,13 @@
+# Modelado UML
+ Modelado Juego Veintiuna - Fundamentos de Ingeniería de Software
+ &nbsp;
+## Integrantes:
+- **Diego Vélez
+&nbsp;
+- **Sebastián Gonzalez
+&nbsp;
+- **Oscar Carrillo
+
 # Veintiuna
 ## Ejercicio de desarrollo basado en pruebas
 
@@ -12,4 +22,26 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 - __Como__ repartidor __quiero__ tomar dos cartas __para__ iniciar el juego
 - __Como__ repartidor __quiero__ sumar los valores de una mano __para__ saber el valor total
 - __Como__ repartidor __quiero__ conocer el valor de la mano del jugador y el valor de mi mano __para__ determinar mi jugada
+
+## Diagrama de Clases
+
+## Diagrama de Actividades
+
+- ### Actividad Inicio de Juego
+ !['Diagrama de Actividades 1'](img/UML_Diagrams/Actividades/diagactividades1.png)
+
+ - ### Actividad Determinar Jugada
+ !['Diagrama de Actividades 2'](img/UML_Diagrams/Actividades/diagactividades2.png) 
+
+## Diagrama de Paquetes 
+
+ !['Diagrama de Paquetes'](img/UML_Diagrams/Paquetes/diagPaquetes.png)
+## Diagrama de Clases
+
+## Diagrama de Secuencia 
+
+## Diagrama de Casos de uso
+
+
+
 
