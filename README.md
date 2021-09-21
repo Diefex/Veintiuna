@@ -27,8 +27,6 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
  
 !['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
 
-!['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
-
 ## Diagrama de Clases
 - ### Juego
 !['Diagrama de Clases para el Juego'](img/UML_Diagrams/Clases/Clases_Juego.png)
@@ -53,15 +51,8 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 !['Diagrama de Casos de Uso'](img/UML_Diagrams/Secuencia/SequenceDiagram21.jpg)
 
  ## Diagrama de Despligue 
-<<<<<<< HEAD
 
  
-=======
- 
-
- ## Diagrama de Secuencia 
- !['Diagrama de Casos de Uso'](img/UML_Diagrams/Secuencia/SequenceDiagram21.jpg)
->>>>>>> 8bef1d09c4ac461ef0abf834b0dff4cdf2664d0a
 
 
 
