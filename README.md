@@ -23,16 +23,18 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 - __Como__ repartidor __quiero__ sumar los valores de una mano __para__ saber el valor total
 - __Como__ repartidor __quiero__ conocer el valor de la mano del jugador y el valor de mi mano __para__ determinar mi jugada
 
-## Diagrama de Casos de uso
+## Diagrama de Casos de Uso 
+ 
+!['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
 
 !['Diagrama de Casos de Uso'](img/UML_Diagrams/Casos_de_uso/CUDiagram.jpg)
 
 ## Diagrama de Clases
 - ### Juego
-!['Diagrama de Clases para el Juego'](img/UML_Diagrams/Clases/Clases%20Juego.png)
+!['Diagrama de Clases para el Juego'](img/UML_Diagrams/Clases/Clases_Juego.png)
 
 - ### Test
-!['Diagrama de Clases para Pruebas'](img/UML_Diagrams/Clases/Clases%20Test.png)
+!['Diagrama de Clases para Pruebas'](img/UML_Diagrams/Clases/Clases_Test.png)
 
 ## Diagrama de Actividades
 
@@ -45,12 +47,21 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 ## Diagrama de Paquetes 
 
  !['Diagrama de Paquetes'](img/UML_Diagrams/Paquetes/diagPaquetes.png)
+
+ ## Diagrama de Secuencia 
  
+!['Diagrama de Casos de Uso'](img/UML_Diagrams/Secuencia/SequenceDiagram21.jpg)
+
  ## Diagrama de Despligue 
+<<<<<<< HEAD
+
+ 
+=======
  
 
  ## Diagrama de Secuencia 
  !['Diagrama de Casos de Uso'](img/UML_Diagrams/Secuencia/SequenceDiagram21.jpg)
+>>>>>>> 8bef1d09c4ac461ef0abf834b0dff4cdf2664d0a
 
 
 
