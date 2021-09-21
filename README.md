@@ -23,6 +23,8 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 - __Como__ repartidor __quiero__ sumar los valores de una mano __para__ saber el valor total
 - __Como__ repartidor __quiero__ conocer el valor de la mano del jugador y el valor de mi mano __para__ determinar mi jugada
 
+## Diagrama de Casos de uso
+
 ## Diagrama de Clases
 
 ## Diagrama de Actividades
@@ -36,11 +38,9 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
 ## Diagrama de Paquetes 
 
  !['Diagrama de Paquetes'](img/UML_Diagrams/Paquetes/diagPaquetes.png)
-## Diagrama de Clases
+ 
+ ## Diagrama de Despligue 
 
-## Diagrama de Secuencia 
-
-## Diagrama de Casos de uso
 
 
 
