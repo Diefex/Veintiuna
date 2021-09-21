@@ -47,7 +47,7 @@ def test_determinar_jugada_plantar():
 
 # prueba para determinar jugar como jugada
 # resultado la jugada es juego
-def test_determinar_jugada_plantar():
+def test_determinar_jugada_Jugar():
   repartidor.valor_mano = 10
   valor_jugador = 21
   assert repartidor.determinar_jugada(valor_jugador) == 'juego'
