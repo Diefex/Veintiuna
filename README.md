@@ -43,11 +43,11 @@ Las cartas numéricas suman su valor, las figuras suman 10 y el As vale 11 o 1, 
  
  ## Diagrama de Casos de Uso 
  
-!['Diagrama de Casos de Uso'](img/UML_Diagrams/Diagrama de casos de uso/Diagrama de casos de uso 21.jpg)
+!['Diagrama de Casos de Uso'](img/UML_Diagrams/Diagrama_de_casos_de_uso/Diagrama_de_casos_de_uso_21.jpg)
 
  ## Diagrama de Secuencia 
  
-!['Diagrama de Casos de Uso'](img/UML_Diagrams/Diagrama de secuencia/SequenceDiagram21.jpg)
+!['Diagrama de Casos de Uso'](img/UML_Diagrams/Diagrama_de_secuencia/SequenceDiagram21.jpg)
 
 
 
