@@ -37,7 +37,9 @@ class Repartidor:
       return int(carta[0])
 
   def determinar_jugada(self, valor_jugador):
-    if(self.valor_mano<=16 or self.valor_mano<valor_jugador):
+    if(self.valor_mano==valor_jugador):
+      jugada = 'planto'
+    elif(self.valor_mano<=16 or self.valor_mano<valor_jugador):
       jugada = 'juego'
     else:
       jugada = 'planto'
