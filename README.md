@@ -2,11 +2,11 @@
  Modelado Juego Veintiuna - Fundamentos de Ingeniería de Software
  &nbsp;
 ## Integrantes:
-- **Diego Vélez
+- Diego Vélez
 &nbsp;
-- **Sebastián Gonzalez
+- Sebastián Gonzalez
 &nbsp;
-- **Oscar Carrillo
+- Oscar Carrillo
 
 # Veintiuna
 ## Ejercicio de desarrollo basado en pruebas
